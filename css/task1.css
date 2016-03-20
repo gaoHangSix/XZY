@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.divBody{
+    vertical-align: middle;
+    width: 330px;
+}
+.divList{
+    display: inline-block;
+    padding: 3px;
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+}

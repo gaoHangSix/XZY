@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.divBody{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -165px 0 0 -165px;
+    width: 330px;
+    height: 330px;
+}
+.divList{
+    border-radius: 5px;
+    display: inline-block;
+    padding: 3px;
+    width: 100px;
+    height: 100px;
+    background-color: darkorange;
+}
